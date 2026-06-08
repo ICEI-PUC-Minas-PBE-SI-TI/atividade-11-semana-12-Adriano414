@@ -4,12 +4,14 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome:Adriano de Jesus Alves
+- Matrícula:906517
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUi>>
+![Tela inicial](./public/img/Print.telacards.png)
 
 <<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![Resultado da busca](./public/img/Print.telabuscar.png)
 
